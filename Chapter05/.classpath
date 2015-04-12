@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_2/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_2/xml-apis.jar"/>
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_2/xsltc.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TryOut.xslt.parser.001"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
